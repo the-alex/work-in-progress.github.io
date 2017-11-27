@@ -2,6 +2,18 @@
 layout: post
 ---
 
+What a sentence \\( sin(x^2) \\). Look at that inline math!
+
+Alternatively, center equations with this notation.
+
+\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]
+
+... Or this one ...
+
+$$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
+
+Okay, now we're showing off.
+
 $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
